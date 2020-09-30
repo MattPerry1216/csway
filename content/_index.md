@@ -1,6 +1,6 @@
 ---
 header_brand: "The CS Way"
-header_tagline_paragraph: "Connecting The Future of Technology to Professors"
+header_tagline_paragraph: "Connecting The Future of Technology to the Researchers of Today"
 header_button_cta:
   url: "#contact-form"
   title: "Sign Up for Future Meetings"
