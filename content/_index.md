@@ -6,13 +6,13 @@ header_button_cta:
   title: "Sign Up for Future Meetings"
 header_button_more:
   url: "#past-meetings"
-  title: "Past Meetings"
+  title: "Watch Past Meetings"
 teaser_image: "images/csway1.jpg"
 ---
 
 # Mission
 
-Provide opportunities for students to gain valuable college and career information from professors in the computer science field. 
+Provide opportunities for students to gain valuable college and career information from professors in the computer science and general technology field. 
 
 ---
 # Sign Up
