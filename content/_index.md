@@ -14,8 +14,8 @@ teaser_image: "images/csway1.jpg"
 
 Gain valuable college and career information from professors in the computer science field. 
 ---
-
-Interested in joining a meeting? Sign up below!
+# Sign Up
+Interested in joining a meeting? **Sign up below!**
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
