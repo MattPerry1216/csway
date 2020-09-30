@@ -12,7 +12,8 @@ teaser_image: "images/csway1.jpg"
 
 # Mission
 
-Gain valuable college and career information from professors in the computer science field. 
+Provide opportunities for students to gain valuable college and career information from professors in the computer science field. 
+
 ---
 # Sign Up
 Interested in joining a meeting? **Sign up below!**
