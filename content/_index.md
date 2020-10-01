@@ -1,22 +1,19 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "The CS Way"
+header_tagline_paragraph: "Connecting the future of technology to the researchers of today"
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: "Sign Up for Future Meetings"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+  title: "Watch Past Meetings"
+teaser_image: "images/teaser.jpg" 
 ---
 
 # The Future - Today!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
----
-
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+[contact-form]
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
