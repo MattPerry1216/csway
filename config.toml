@@ -24,7 +24,11 @@ title = "The CS Way"
     copyright = ""
 
     # The "description" of your website. This is used in the meta data of your generated html.
+<<<<<<< HEAD
     description = "Student Led Organization helping students interested in the computer science field."
+=======
+    description = ""
+>>>>>>> f37857a5d4cdaa3f3a6dd80f9e2bd5a44fc947aa
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -51,4 +55,8 @@ title = "The CS Way"
     # hidedesignbyline = true
 
     [params.meta]
+<<<<<<< HEAD
         keywords = "cs, computer, science, way, student-led, professors, interviews"
+=======
+        keywords = "cs, computer, science, way, professors, student-led, student, technology"
+>>>>>>> f37857a5d4cdaa3f3a6dd80f9e2bd5a44fc947aa
