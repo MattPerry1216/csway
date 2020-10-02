@@ -22,6 +22,7 @@ Sign up to notified of future meetings below.
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
+{{< ref "#past-meetings" >}}
 # Watch Past Meetings
 
 Were you unable to join us? Watch past meetings below!
