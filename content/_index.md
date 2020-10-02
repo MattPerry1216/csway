@@ -19,9 +19,11 @@ We strive to give opportunites to students to connect with experts in the comput
 
 Sign up to notified of future meetings below.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" button_label="Send ✉️">}}
 
 ---
 # Watch Past Meetings {#past-meetings}
 
 Were you unable to join us? Watch past meetings below!
+
+{{<youtube NpEaa2P7qZI>}}
