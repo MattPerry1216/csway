@@ -5,14 +5,14 @@ header_button_cta:
   url: "#contact-form"
   title: "Sign Up for Future Meetings"
 header_button_more:
-  url: "#the-future---today"
+  url: "#past-meetings"
   title: "Watch Past Meetings"
 teaser_image: "images/csway_Header.jpg" 
 ---
 
 # Mission
 
-We strive to give opportunites to students to connect with experts in the computer science and general science field. 
+We strive to give opportunites to students to connect with experts in the computer science and general techonology field. 
 
 ---
 # Sign Up for Future Meetings
