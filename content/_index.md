@@ -1,5 +1,5 @@
 ---
-header_brand: "The CS Way"
+header_brand: "CSvisions"
 header_tagline_paragraph: "Connecting The Future of Technology to Professors"
 header_button_cta:
   url: "#contact-form"
