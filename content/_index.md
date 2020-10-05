@@ -1,4 +1,5 @@
 ---
+teaser_image: "images/CSVisionsLogoWB.png"
 header_brand: "CS Visions"
 header_tagline_paragraph: "Connecting CS to Students"
 header_button_cta:
@@ -7,7 +8,6 @@ header_button_cta:
 header_button_more:
   url: "#past-meetings"
   title: "Watch Past Meetings"
-teaser_image: "images/CSVisionsLogoWB.png"
 ---
 
 # Mission
