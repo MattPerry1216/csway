@@ -7,6 +7,9 @@
         {{ with .Params.teaser_image }}
           {{- partial "header/teaser_image.html" . -}}
         {{ end }}
+        {{ with .Params.header_brand }}
+          {{- partial "header/brand.html" . -}}
+        {{ end }}
         {{ with .Params.header_tagline_paragraph }}
           {{- partial "header/tagline_paragraph.html" . -}}
         {{ end }}
@@ -19,9 +22,6 @@
           {{ end }}
         </div>
       </div>
-      {{ with .Params.header_brand }}
-        {{- partial "header/brand.html" . -}}
-      {{ end }}
     </div>
   </div>
 </header>
