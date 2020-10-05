@@ -1,13 +1,13 @@
 ---
-header_brand: "CSvisions"
-header_tagline_paragraph: "Connecting The Future of Technology to Professors"
+header_brand: "CS Visions"
+header_tagline_paragraph: "Connecting CS to Students"
 header_button_cta:
   url: "#contact-form"
   title: "Sign Up for Future Meetings"
 header_button_more:
   url: "#past-meetings"
   title: "Watch Past Meetings"
-teaser_image: "images/csway1.jpg"
+teaser_image: "images/CSVisionsLogo.png"
 ---
 
 # Mission
