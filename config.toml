@@ -1,4 +1,4 @@
-baseURL = "csway.netlify.app"
+baseURL = "csvisions.netlify.app"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "The CS Way"
+title = "CSvisions"
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.
@@ -39,7 +39,7 @@ title = "The CS Way"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "The CS Way"
+    title = "CSvisions"
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
