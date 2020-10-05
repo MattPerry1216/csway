@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#past-meetings"
   title: "Watch Past Meetings"
-teaser_image: "images/CSVisionsLogo.png"
+teaser_image: "images/CSVisionsLogoWB.png"
 ---
 
 # Mission
